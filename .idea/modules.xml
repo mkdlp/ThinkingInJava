@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaString/JavaString.iml" filepath="$PROJECT_DIR$/JavaString/JavaString.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThinkingInJava.iml" filepath="$PROJECT_DIR$/ThinkingInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
     </modules>
   </component>
 </project>
